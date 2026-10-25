@@ -1,0 +1,7 @@
+MotorL: black: ML- // red: M+
+MotorR: black: MR- // white: M+
+tail motor: red: B // black: F
+LED: red: + // yellow: L
+battery: red:V+ // balck: V-
+
+

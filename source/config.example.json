@@ -1,0 +1,22 @@
+{
+    "wifi": {
+        "ssid": "your-network",
+        "password": "your-password"
+    },
+    "pins": {
+        "motor_left": 3,
+        "motor_right": 4,
+        "sda": 8,
+        "scl": 9
+    },
+    "parameters": {
+        "motor_pwm_frequency": 20000,
+        "i2c_frequency": 400000
+    },
+    "mpu_calibration": {
+        "gyro_bias_dps": [0.0, 0.0, 0.0],
+        "accel_bias_g": [0.0, 0.0, 0.0],
+        "accel_scale": [1.0, 1.0, 1.0],
+        "temperature_c": 25.0
+    }
+}

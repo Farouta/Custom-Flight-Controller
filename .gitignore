@@ -1,0 +1,30 @@
+# Wi-Fi password. Start from source/config.example.json.
+source/config.json
+
+# v2 PCB: not public yet
+electric/Kicad_v2/
+electric/Kicad_v2_double_sided/
+
+# Private working notes and third-party documents
+docs/project_handoff.md
+docs/*.pdf
+
+# Third-party tools and KiCad libraries
+webrepl/
+electric/*/KiCad_ESP32-C3-SuperMini-master/
+electric/*/ul_SI2302-TP/
+
+# KiCad backups, caches, local settings and generated outputs
+*-backups/
+fp-info-cache
+*.kicad_prl
+*.lck
+_autosave-*
+\#auto_saved_files\#
+electric/*/reference_*/
+electric/*/jlcpcb/
+*.stl
+
+# Python
+__pycache__/
+*.pyc

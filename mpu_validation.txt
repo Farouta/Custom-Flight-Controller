@@ -1,0 +1,111 @@
+'mpu_calibration': {'gyro_bias_dps': [-1.88743508, 4.9209656, -2.40243], 'temperature_c': 24.60941, 'accel_scale': [0.9992182, 1.0081797, 1.020382], 'accel_bias_g': [0.041296124, -0.017904996, 0.06961131]}, 'parameters': {'motor_pwm_frequency': 20000, 'i2c_frequency': 100000}}
+Accel bias: [0.041296124, -0.017904996, 0.06961131]
+Accel scale: [0.9992182, 1.0081797, 1.020382]
+Gyro bias: (-1.88743508, 4.9209656, -2.40243)
+Waiting 10 seconds for settling...
+
+Choose a position and support the sensor.
+Measurement starts in 5 seconds.
+MEASURING: keep completely still.
+#reandom orientation
+Magnitude: mean=0.99439 g, spread=0.00102 g
+Magnitude error: -0.56%
+X accel: mean=+0.96071 g, spread=0.00095 g
+X gyro:  mean=+0.0546 deg/s, spread=0.0228
+Y accel: mean=-0.10084 g, spread=0.00101 g
+Y gyro:  mean=+0.0157 deg/s, spread=0.0273
+Z accel: mean=-0.23597 g, spread=0.00159 g
+Z gyro:  mean=+0.0485 deg/s, spread=0.0224
+Measurement complete. You may reposition now.
+
+#reandom orientation
+Magnitude: mean=0.99809 g, spread=0.00092 g
+Magnitude error: -0.19%
+X accel: mean=-0.25197 g, spread=0.00103 g
+X gyro:  mean=+0.0552 deg/s, spread=0.0544
+Y accel: mean=-0.96574 g, spread=0.00090 g
+Y gyro:  mean=-0.0327 deg/s, spread=0.0323
+Z accel: mean=-0.00483 g, spread=0.00156 g
+Z gyro:  mean=+0.0505 deg/s, spread=0.0270
+Measurement complete. You may reposition now.
+
+# z look up
+Choose a position and support the sensor.
+Measurement starts in 5 seconds.
+MEASURING: keep completely still.
+Magnitude: mean=1.01511 g, spread=0.00185 g
+Magnitude error: +1.51%
+X accel: mean=+0.01480 g, spread=0.00104 g
+X gyro:  mean=+0.1904 deg/s, spread=0.0266
+Y accel: mean=+0.01727 g, spread=0.00098 g
+Y gyro:  mean=+0.0227 deg/s, spread=0.0377
+Z accel: mean=+1.01485 g, spread=0.00184 g
+Z gyro:  mean=-0.2939 deg/s, spread=0.0304
+Measurement complete. You may reposition now.
+
+z look down
+Choose a position and support the sensor.
+Measurement starts in 5 seconds.
+MEASURING: keep completely still.
+Magnitude: mean=1.00306 g, spread=0.00168 g
+Magnitude error: +0.31%
+X accel: mean=+0.01528 g, spread=0.00201 g
+X gyro:  mean=-0.0235 deg/s, spread=0.0352
+Y accel: mean=-0.01214 g, spread=0.00104 g
+Y gyro:  mean=+0.1310 deg/s, spread=0.0596
+Z accel: mean=-1.00287 g, spread=0.00167 g
+Z gyro:  mean=-0.8131 deg/s, spread=0.0862
+Measurement complete. You may reposition now.
+
+y look up
+Choose a position and support the sensor.
+Measurement starts in 5 seconds.
+MEASURING: keep completely still.
+Magnitude: mean=1.00180 g, spread=0.00097 g
+Magnitude error: +0.18%
+X accel: mean=+0.04288 g, spread=0.00117 g
+X gyro:  mean=-0.0564 deg/s, spread=0.0290
+Y accel: mean=+1.00087 g, spread=0.00097 g
+Y gyro:  mean=-0.1097 deg/s, spread=0.0752
+Z accel: mean=+0.00304 g, spread=0.00229 g
+Z gyro:  mean=+0.0357 deg/s, spread=0.1782
+Measurement complete. You may reposition now.
+
+#y look down
+Choose a position and support the sensor.
+Measurement starts in 5 seconds.
+MEASURING: keep completely still.
+Magnitude: mean=0.99822 g, spread=0.00125 g
+Magnitude error: -0.18%
+X accel: mean=-0.01474 g, spread=0.01177 g
+X gyro:  mean=+0.0053 deg/s, spread=0.1082
+Y accel: mean=-0.99804 g, spread=0.00119 g
+Y gyro:  mean=-0.0076 deg/s, spread=0.9682
+Z accel: mean=+0.00035 g, spread=0.00181 g
+Z gyro:  mean=-0.6542 deg/s, spread=3.1511
+Measurement complete. You may reposition now.
+
+
+#x look down
+Magnitude: mean=1.00288 g, spread=0.00104 g
+Magnitude error: +0.29%
+X accel: mean=-1.00273 g, spread=0.00104 g
+X gyro:  mean=+0.0270 deg/s, spread=0.0283
+Y accel: mean=+0.01721 g, spread=0.00102 g
+Y gyro:  mean=+0.1121 deg/s, spread=0.0345
+Z accel: mean=-0.00306 g, spread=0.00170 g
+Z gyro:  mean=-0.4558 deg/s, spread=0.0317
+Measurement complete. You may reposition now.
+
+x look up
+Magnitude: mean=0.99914 g, spread=0.00103 g
+Magnitude error: -0.09%
+X accel: mean=+0.99817 g, spread=0.00103 g
+X gyro:  mean=-0.3539 deg/s, spread=0.0307
+Y accel: mean=-0.04021 g, spread=0.00097 g
+Y gyro:  mean=+0.0629 deg/s, spread=0.0326
+Z accel: mean=-0.01799 g, spread=0.00154 g
+Z gyro:  mean=-0.2477 deg/s, spread=0.0280
+Measurement complete. You may reposition now.
+
+
